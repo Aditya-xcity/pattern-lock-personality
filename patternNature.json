@@ -1,0 +1,36 @@
+{
+  "line": [
+    "You are a direct and straightforward thinker.",
+    "You prefer simplicity and clarity in life.",
+    "You like structured and predictable systems.",
+    "You focus on goals without unnecessary distractions."
+  ],
+
+  "zigzag": [
+    "You are creative and think in unconventional ways.",
+    "You enjoy exploring multiple possibilities.",
+    "Your mind jumps quickly between ideas.",
+    "You adapt quickly to changing situations."
+  ],
+
+  "square": [
+    "You value stability and security.",
+    "You prefer organized and well-planned environments.",
+    "You are reliable and consistent.",
+    "You believe in building strong foundations."
+  ],
+
+  "l_shape": [
+    "You are practical and strategic.",
+    "You think carefully before making decisions.",
+    "You like balancing logic and creativity.",
+    "You often look for efficient shortcuts."
+  ],
+
+  "random": [
+    "You are spontaneous and unpredictable.",
+    "You enjoy experimenting with new ideas.",
+    "You don't like being limited by strict rules.",
+    "You tend to follow your instincts."
+  ]
+}
